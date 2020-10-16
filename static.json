@@ -2,7 +2,6 @@
   "headers":{
       "/*":{
       "X-Author": "version23",
-      "Method": "POST",
       "Access-Control-Allow-Origin": "*"
             }
   }
