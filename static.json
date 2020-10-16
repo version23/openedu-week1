@@ -1,7 +1,7 @@
 {
   "headers":{
       "/*":
-      "X-Author": "version23"
+      "X-Author": "version23",
       "Access-Control-Allow-Origin": "*"
             }
 }
